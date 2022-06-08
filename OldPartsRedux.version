@@ -1,11 +1,11 @@
 {
     "NAME": "Old Parts Redux",
     "URL": "https://github.com/TriggeredSnake/OldPartsRedux/raw/master/OldPartsRedux.version",
-    "DOWNLOAD": "https://spacedock.info/mod/1744/Old%20Parts%20Redux/download/0.11.1",
+    "DOWNLOAD": "https://spacedock.info/mod/1744/Old%20Parts%20Redux/download/0.11.2",
     "VERSION": {
         "MAJOR": 0,
         "MINOR": 11,
-        "PATCH": 1,
+        "PATCH": 2,
         "BUILD": 0
     },
     "KSP_VERSION": {
